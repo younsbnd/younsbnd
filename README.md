@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Roudan%2C%20Iran-0d1117?style=flat-square&logo=googlemaps&logoColor=7AA2F7" alt="Location" />
+<img src="https://img.shields.io/badge/Bandar%20Abbas%2C%20Iran-0d1117?style=flat-square&logo=googlemaps&logoColor=7AA2F7" alt="Location" />
 <a href="mailto:younesbnd20@yahoo.com"><img src="https://img.shields.io/badge/younesbnd20@yahoo.com-0d1117?style=flat-square&logo=maildotru&logoColor=7AA2F7" alt="Email" /></a>
 <a href="https://nikgem.com"><img src="https://img.shields.io/badge/nikgem.com-0d1117?style=flat-square&logo=googlechrome&logoColor=7AA2F7" alt="Website" /></a>
 <img src="https://komarev.com/ghpvc/?username=younsbnd&style=flat-square&color=0d1117&label=profile+views" alt="Profile views" />
@@ -31,7 +31,6 @@ const younes = {
   focus:      ["Next.js", "React", "TypeScript", "Technical SEO"],
   learning:   ["NestJS", "Prisma", "PostgreSQL"],
   databases:  ["MongoDB", "PostgreSQL"],
-  lookingFor: "a team where I can grow and create real value",
 };
 ```
 
