@@ -100,17 +100,6 @@ const younes = {
 
 <br/>
 
-## `> stats`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=younsbnd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C9D1D9&ring_color=7AA2F7" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younsbnd&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=C9D1D9" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=younsbnd&hide_border=true&background=0d1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D" alt="GitHub streak" />
-</div>
-
-<br/>
-
 <div align="center">
 
 **Let's build something together.**
